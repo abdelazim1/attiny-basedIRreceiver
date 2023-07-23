@@ -1,4 +1,4 @@
 # attiny-basedIRreceiver
-attiny-based ir receiver
+IR-based remote 2-channel relay kit
 
 Not finished
